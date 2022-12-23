@@ -21,6 +21,10 @@ OBS: precisa ter o docker instalado se for usar pelo docker.
 Caso queira usar através do `php artisan server`
 precisa ter instalado o mysql para realização do `php artisan migrate`
 
+Usar também o comando: `php artisan storage:link` para funcionamento das imagens.
+
+Obs: Caso use o laravel sail os comandos devem ser usados: `./vendor/bin/sail artisan ...`
+
 # Front - End (ReactJS)
 
 ##### Tecnologia usada
